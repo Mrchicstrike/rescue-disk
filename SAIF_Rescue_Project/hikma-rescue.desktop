@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=HIKMA Rescue Engine
+Comment=Malware scanning and rescue workflow
+Exec=/usr/local/bin/hikma-rescue
+TryExec=/usr/local/bin/hikma-rescue
+Terminal=false
+Categories=Utility;Security;System;
+StartupNotify=true
